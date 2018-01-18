@@ -78,5 +78,29 @@ ___
     Перейти к видео<br>
   </a>
 </details>
+
+<details>
+  <summary><b>Angular 2.0 Meetup. Почему стоит переходить на Angular 2.0</b> - Юлия Царева</summary>
+  <a href="https://www.youtube.com/watch?v=UySMkU4NzMM&list=PLCGxdEMJquKSf-ewO3WKTrun-KbdwU1oW&index=3">
+    <br><img src="https://img.youtube.com/vi/UySMkU4NzMM/0.jpg" align="center" height="300px"/><br>
+    Перейти к видео<br>
+  </a>
+</details>
+  
+<details>
+  <summary><b>Angular 2.0 Meetup. Фишки и прелести TypeScript</b> - Александр Майоров</summary>
+  <a href="https://www.youtube.com/watch?v=-MsKozkXfEo&list=PLCGxdEMJquKSf-ewO3WKTrun-KbdwU1oW&index=2">
+    <br><img src="https://img.youtube.com/vi/-MsKozkXfEo/0.jpg" align="center" height="300px"/><br>
+    Перейти к видео<br>
+  </a>
+</details>
+  
+<details>
+  <summary><b>Angular 2.0 Meetup. Сборка Angular 2.0 приложений</b> - Александр Казаченко</summary>
+  <a href="https://www.youtube.com/watch?v=Km8xxozqTNc&index=1&list=PLCGxdEMJquKSf-ewO3WKTrun-KbdwU1oW">
+    <br><img src="https://img.youtube.com/vi/Km8xxozqTNc/0.jpg" align="center" height="300px"/><br>
+    Перейти к видео<br>
+  </a>
+</details>  
   
 ___
