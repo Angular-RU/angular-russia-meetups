@@ -2,6 +2,8 @@
 
 # Angular Moscow Meetup [![Angular-RU](https://img.shields.io/badge/Telegram_chat:-Angular_RU-216bc1.svg?style=flat)](https://t.me/angular_ru)
 
+[**Подписка**](https://meetup.tinkoff.ru/) [&nbsp;**YouTube-канал**](https://www.youtube.com/channel/UCpDTAtunmHBcI6CsJoUV7ww)
+
 ### Angular Meetup — встреча для профессионалов фронтэнда
 
 Angular — один из немногих фреймворков без обёрток и костылей. В нём учтены ошибки AngularJS, React, Ember. Мы расскажем о своём опыте использования Angular, обсудим актуальные проблемы и попробуем разобраться, какие тренды ожидают нас в ближайшем будущем.
@@ -21,6 +23,23 @@ ___
 
 Не факт, что тема была освещена полностью. Поэтому если есть, что добавить или сказать, не стесняйтесь предлагать.
 
+[version 5.x]
+<details>
+  <summary><b>Воркеры в жизни и в экосистеме Angular</b> - Александр Духовняк</summary>
+  <a href="https://www.youtube.com/watch?v=5ay6iD8e3Uk">
+    <br><img src="https://img.youtube.com/vi/5ay6iD8e3Uk/0.jpg" align="center" height="300px"/><br>
+    Перейти к видео<br>
+  </a>
+</details>
+
+<details>
+  <summary><b>6 App On One Code With IONIC</b> - Sani Yusuf</summary>
+  <a href="https://www.youtube.com/watch?v=bTBg5BIA0RU">
+    <br><img src="https://img.youtube.com/vi/bTBg5BIA0RU/0.jpg" align="center" height="300px"/><br>
+    Перейти к видео<br>
+  </a>
+</details><br>
+
 [version 4.x]
 <details>
   <summary><b>Unit-тестирование форм в Angular</b> - Павел Пилипчак</summary>
@@ -29,6 +48,8 @@ ___
     Перейти к видео<br>
   </a>
 </details>
+
+
 
 <details>
   <summary><b>Cостояние состояния (Services, Redux, Mobx, DCI)</b> - Алексей Охрименко</summary>
