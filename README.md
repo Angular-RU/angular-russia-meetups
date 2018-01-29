@@ -25,6 +25,14 @@ ___
 
 [version 5.x]
 <details>
+  <summary><b>Angular Universal. Проблемы, примеры, решения</b> - Игорь Кравченко</summary>
+  <a href="https://www.youtube.com/watch?v=KmnEvUdHM30">
+    <br><img src="https://img.youtube.com/vi/KmnEvUdHM30/0.jpg" align="center" height="300px"/><br>
+    Перейти к видео<br>
+  </a>
+</details>
+
+<details>
   <summary><b>Воркеры в жизни и в экосистеме Angular</b> - Александр Духовняк</summary>
   <a href="https://www.youtube.com/watch?v=5ay6iD8e3Uk">
     <br><img src="https://img.youtube.com/vi/5ay6iD8e3Uk/0.jpg" align="center" height="300px"/><br>
