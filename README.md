@@ -47,9 +47,9 @@ ___
     <br><img src="https://img.youtube.com/vi/bTBg5BIA0RU/0.jpg" align="center" height="300px"/><br>
     Перейти к видео<br>
   </a>
-</details><br>
+</details>
 
-[angular 4.x]
+<br>[angular 4.x]
 
 <details>
   <summary><b>Unit-тестирование форм в Angular</b> - Павел Пилипчак</summary>
@@ -75,7 +75,7 @@ ___
   </a>
 </details>
 
-[angular 2.x]
+<br>[angular 2.x]
 
 <details>
   <summary><b>Angular Router вдоль и поперек</b> - Юлия Царева</summary>
