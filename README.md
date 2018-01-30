@@ -23,7 +23,7 @@ ___
 
 Не факт, что тема была освещена полностью. Поэтому если есть, что добавить или сказать, не стесняйтесь предлагать.
 
-[version 6.x]
+[angular 5.x]
 <details>
   <summary><b>Angular Universal. Проблемы, примеры, решения</b> - Игорь Кравченко</summary>
   <a href="https://www.youtube.com/watch?v=KmnEvUdHM30">
@@ -48,7 +48,7 @@ ___
   </a>
 </details><br>
 
-[version 5.x]
+[angular 4.x]
 <details>
   <summary><b>Unit-тестирование форм в Angular</b> - Павел Пилипчак</summary>
   <a href="https://www.youtube.com/watch?v=Tpb3DRsjQFI">
@@ -75,7 +75,7 @@ ___
   </a>
 </details>
 
-[version 4.x]
+[angular 2.x]
 <details>
   <summary><b>Angular Router вдоль и поперек</b> - Юлия Царева</summary>
   <a href="https://www.youtube.com/watch?v=ovsBd6Y5DN0">
@@ -84,7 +84,6 @@ ___
   </a>
 </details><br>
 
-[version 2.x]
 <details>
   <summary><b>Динамическое создание компонентов в Angular</b> - Андрей Яманов </summary>
   <a href="https://www.youtube.com/watch?v=blSENg8Gssw">
@@ -109,7 +108,6 @@ ___
   </a>
 </details>
 
-[version 1.x]
 <details>
   <summary><b>Angular 2.0 Meetup. Почему стоит переходить на Angular 2.0</b> - Юлия Царева</summary>
   <a href="https://www.youtube.com/watch?v=UySMkU4NzMM&list=PLCGxdEMJquKSf-ewO3WKTrun-KbdwU1oW&index=3">
