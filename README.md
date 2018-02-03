@@ -14,11 +14,9 @@ PS: Если это ваш доклад - добавляйте в заголов
 
 Не факт, что тема была освещена полностью. Поэтому если есть, что добавить или сказать, не стесняйтесь предлагать.
 
----
-
 [<img src="https://avatars2.githubusercontent.com/u/29404381?s=200&v=4" align="right" width="141" height="143">](https://www.youtube.com/channel/UCpDTAtunmHBcI6CsJoUV7ww)
 
-### Angular Moscow
+## Angular Moscow
 
 [**Подписка**](https://meetup.tinkoff.ru/) [&nbsp;**YouTube-канал**](https://www.youtube.com/channel/UCpDTAtunmHBcI6CsJoUV7ww)
 [**Предложить доклад**](https://github.com/AngularMoscow/Talks/issues)
