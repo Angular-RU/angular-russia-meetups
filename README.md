@@ -3,6 +3,7 @@
 # Angular Meetups in Russia  [![Angular-RU](https://img.shields.io/badge/Telegram_chat:-Angular_RU-216bc1.svg?style=flat)](https://t.me/angular_ru)
 
 - **[Москва](#angular-moscow)**
+- **[Санкт-Петербург](#angular-piter)**
 
 #### Как внести свой вклад?
 
@@ -136,3 +137,12 @@ Angular — один из немногих фреймворков без обё�
 </details>  
   
 ___
+
+[<img src="https://habrastorage.org/webt/dd/q6/xp/ddq6xpsqwiygvwmykpfaosabkds.png" align="right" width="141" height="143">](#)
+
+## Angular Piter
+
+[**Предложить доклад**](https://github.com/AngularPiter/Talks)
+
+
+
