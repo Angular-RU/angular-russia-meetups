@@ -3,7 +3,7 @@
 - **[Москва](#angular-moscow-meetup)**
 - **[Санкт-Петербург](#angular-piter-meetup)**
 
-#### Как внести свой вклад?
+### Как внести свой вклад?
 
 Предлагайте тему доклада с кратким описанием через создание нового [Issue](https://github.com/Angular-RU/angular-russia-meetups/issues) в этом репозитории или репозитории github-сообщества организаторов. Голосуйте за другие темы лайками. Покажите это issue своим коллегам. Нам интересно ваше мнение.
 
@@ -11,16 +11,16 @@
 
 PS: Если это ваш доклад - добавляйте в заголовок Issue префикс "Доклад:", если это предложение "Тема:"
 
-#### Темы уже рассказанные на предыдущих митапах
+### Темы уже рассказанные на предыдущих митапах
 
 Не факт, что тема была освещена полностью. Поэтому если есть, что добавить или сказать, не стесняйтесь предлагать.
 
 [<img src="https://avatars2.githubusercontent.com/u/29404381?s=200&v=4" align="right" width="141" height="143">](https://www.youtube.com/channel/UCpDTAtunmHBcI6CsJoUV7ww)
 
-## Angular Moscow Meetup
+# Angular Moscow Meetup [![ngMoscow](https://img.shields.io/badge/Telegram_chat:-ngMoscow-f70059.svg?style=flat)](https://t.me/ngMoscow)
 
-[**Подписка**](https://meetup.tinkoff.ru/) [&nbsp;&nbsp;&nbsp;**YouTube-канал**](https://www.youtube.com/channel/UCpDTAtunmHBcI6CsJoUV7ww)
-[&nbsp;&nbsp;&nbsp;**Предложить доклад**](https://github.com/AngularMoscow/Talks/issues)
+[**Подписка**](https://meetup.tinkoff.ru/) &nbsp;&nbsp;&nbsp;[**YouTube-канал**](https://www.youtube.com/channel/UCpDTAtunmHBcI6CsJoUV7ww)
+&nbsp;&nbsp;&nbsp;[**Предложить доклад**](https://github.com/AngularMoscow/Talks/issues)
 
 Angular — один из немногих фреймворков без обёрток и костылей. В нём учтены ошибки AngularJS, React, Ember. Мы расскажем о своём опыте использования Angular, обсудим актуальные проблемы и попробуем разобраться, какие тренды ожидают нас в ближайшем будущем.
 
@@ -136,7 +136,7 @@ Angular — один из немногих фреймворков без обё�
   
 [<img src="https://habrastorage.org/webt/st/ij/el/stijel6tusvitbzdenipfdghw2w.png" align="right" width="141" height="143">](#)
 
-## Angular Piter Meetup [![Angular-Piter](https://img.shields.io/badge/Telegram_chat:-Angular_Piter-216bc1.svg?style=flat)](https://t.me/angular_piter)
+# Angular Piter Meetup [![Angular-Piter](https://img.shields.io/badge/Telegram_chat:-Angular_Piter-216bc1.svg?style=flat)](https://t.me/angular_piter)
 
 [**Предложить доклад**](https://github.com/AngularPiter/Talks)
 
