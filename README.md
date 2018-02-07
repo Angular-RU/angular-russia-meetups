@@ -1,7 +1,7 @@
 # Angular Meetups in Russia  [![Angular-RU](https://img.shields.io/badge/Telegram_chat:-Angular_RU-216bc1.svg?style=flat)](https://t.me/angular_ru)
 
-- **[Москва](#angular-moscow-meetup)**
-- **[Санкт-Петербург](#angular-piter-meetup)**
+- **[Москва](#angular-moscow-meetup-)**
+- **[Санкт-Петербург](#angular-piter-meetup-)**
 
 ### Как внести свой вклад?
 
