@@ -136,8 +136,6 @@ Angular — один из немногих фреймворков без обё�
   </a>
 </details>  
   
-___
-
 [<img src="https://habrastorage.org/webt/dd/q6/xp/ddq6xpsqwiygvwmykpfaosabkds.png" align="right" width="141" height="143">](#)
 
 ## Angular Piter
