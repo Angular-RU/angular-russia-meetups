@@ -140,5 +140,22 @@ Angular — один из немногих фреймворков без обё�
 
 [**Предложить доклад**](https://github.com/AngularPiter/Talks)
 
+[angular 5.x]
+
+<details>
+  <summary><b>Стратегия обнаружения изменений в Angular</b> - Максим Иванов</summary>
+  <a href="https://youtu.be/2cV4i-g6Oxc">
+    <br><img src="https://img.youtube.com/vi/2cV4i-g6Oxc/0.jpg" align="center" height="300px"/><br>
+    Перейти к видео<br>
+  </a>
+</details>  
+
+<details>
+  <summary><b>Метапрограммирование</b> - Иван Ботанов</summary>
+  <a href="https://youtu.be/JOO_Trs3X5M">
+    <br><img src="https://img.youtube.com/vi/JOO_Trs3X5M/0.jpg" align="center" height="300px"/><br>
+    Перейти к видео<br>
+  </a>
+</details>  
 
 
