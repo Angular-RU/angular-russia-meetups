@@ -136,7 +136,7 @@ Angular — один из немногих фреймворков без обё�
   
 [<img src="https://habrastorage.org/webt/st/ij/el/stijel6tusvitbzdenipfdghw2w.png" align="right" width="141" height="143">](#)
 
-# Angular Piter Meetup [![Angular-Piter](https://img.shields.io/badge/Telegram_chat:-Angular_Piter-216bc1.svg?style=flat)](https://t.me/angular_piter)
+# Angular Piter Meetup [![Angular-Piter](https://img.shields.io/badge/Telegram_chat:-ngPiter-216bc1.svg?style=flat)](https://t.me/angular_piter)
 
 [**Предложить доклад**](https://github.com/AngularPiter/Talks)
 
