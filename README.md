@@ -27,6 +27,22 @@ Angular — один из немногих фреймворков без обё�
 [angular 5.x]
 
 <details>
+  <summary><b>RxJs Subjects</b> - Андрей Алексеев</summary>
+  <a href="https://www.youtube.com/watch?v=KjsRx39o-uM">
+    <br><img src="https://img.youtube.com/vi/KjsRx39o-uM/0.jpg" align="center" height="300px"/><br>
+    Перейти к видео<br>
+  </a>
+</details>
+
+<details>
+  <summary><b>E2E и BDD в Angular 4+</b> - Иван Ботанов</summary>
+  <a href="https://www.youtube.com/watch?v=uGT1SqzJGw0">
+    <br><img src="https://img.youtube.com/vi/uGT1SqzJGw0/0.jpg" align="center" height="300px"/><br>
+    Перейти к видео<br>
+  </a>
+</details>
+
+<details>
   <summary><b>Angular Universal. Проблемы, примеры, решения</b> - Игорь Кравченко</summary>
   <a href="https://www.youtube.com/watch?v=KmnEvUdHM30">
     <br><img src="https://img.youtube.com/vi/KmnEvUdHM30/0.jpg" align="center" height="300px"/><br>
