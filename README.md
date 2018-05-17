@@ -27,6 +27,46 @@ Angular — один из немногих фреймворков без обё�
 [angular 5.x]
 
 <details>
+  <summary><b>Angular ❤️ SVG</b> - Кирилл Черкашин</summary>
+  <a href="https://www.youtube.com/watch?v=j7EsNGKXVVY">
+    <br><img src="https://img.youtube.com/vi/j7EsNGKXVVY/0.jpg" align="center" height="300px"/><br>
+    Перейти к видео<br>
+  </a>
+</details>
+
+<details>
+  <summary><b>Angular Storybook</b> - Алексей Охрименко</summary>
+  <a href="https://www.youtube.com/watch?v=j7EsNGKXVVY">
+    <br><img src="https://img.youtube.com/vi/j7EsNGKXVVY/0.jpg" align="center" height="300px"/><br>
+    Перейти к видео<br>
+  </a>
+</details>
+
+<details>
+  <summary><b>Автобиндинг динамических компонентов</b> - Андрей Греков</summary>
+  <a href="https://www.youtube.com/watch?v=9-4zb3Gh5K4">
+    <br><img src="https://img.youtube.com/vi/Y1Ld929dYq8/0.jpg" align="center" height="300px"/><br>
+    Перейти к видео<br>
+  </a>
+</details>
+
+<details>
+  <summary><b>Interceptors И авторизация</b> - Вадим Жамков</summary>
+  <a href="https://www.youtube.com/watch?v=Y1Ld929dYq8">
+    <br><img src="https://img.youtube.com/vi/Y1Ld929dYq8/0.jpg" align="center" height="300px"/><br>
+    Перейти к видео<br>
+  </a>
+</details>
+
+<details>
+  <summary><b>Angular + NestJS</b> - Дмитрий Захаров</summary>
+  <a href="https://www.youtube.com/watch?v=Mq3bCWY-J60">
+    <br><img src="https://img.youtube.com/vi/Mq3bCWY-J60/0.jpg" align="center" height="300px"/><br>
+    Перейти к видео<br>
+  </a>
+</details>
+
+<details>
   <summary><b>RxJs Subjects</b> - Андрей Алексеев</summary>
   <a href="https://www.youtube.com/watch?v=KjsRx39o-uM">
     <br><img src="https://img.youtube.com/vi/KjsRx39o-uM/0.jpg" align="center" height="300px"/><br>
