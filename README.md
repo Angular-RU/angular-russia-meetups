@@ -28,8 +28,8 @@ Angular — один из немногих фреймворков без обё�
 
 <details>
   <summary><b>Angular ❤️ SVG</b> - Кирилл Черкашин</summary>
-  <a href="https://www.youtube.com/watch?v=j7EsNGKXVVY">
-    <br><img src="https://img.youtube.com/vi/j7EsNGKXVVY/0.jpg" align="center" height="300px"/><br>
+  <a href="https://www.youtube.com/watch?v=xJP52ub2p8c">
+    <br><img src="https://img.youtube.com/vi/xJP52ub2p8c/0.jpg" align="center" height="300px"/><br>
     Перейти к видео<br>
   </a>
 </details>
