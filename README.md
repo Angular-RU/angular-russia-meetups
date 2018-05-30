@@ -45,7 +45,7 @@ Angular — один из немногих фреймворков без обё�
 <details>
   <summary><b>Автобиндинг динамических компонентов</b> - Андрей Греков</summary>
   <a href="https://www.youtube.com/watch?v=9-4zb3Gh5K4">
-    <br><img src="https://img.youtube.com/vi/Y1Ld929dYq8/0.jpg" align="center" height="300px"/><br>
+    <br><img src="https://img.youtube.com/vi/9-4zb3Gh5K4/0.jpg" align="center" height="300px"/><br>
     Перейти к видео<br>
   </a>
 </details>
