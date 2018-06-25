@@ -199,6 +199,30 @@ Angular — один из немногих фреймворков без обё�
 [angular 5.x]
 
 <details>
+  <summary><b>Есть ли JavaScript без Angular?</b> - Андрей Советкин</summary>
+  <a href="https://youtu.be/pk6hu4lnzoE">
+    <br><img src="https://img.youtube.com/vi/pk6hu4lnzoE/0.jpg" align="center" height="300px"/><br>
+    Перейти к видео<br>
+  </a>
+</details>
+
+<details>
+  <summary><b>Коварные улыбки или Не Ангуляром единым</b> - Александр Коротаев</summary>
+  <a href="https://youtu.be/ckk_cBtq30U">
+    <br><img src="https://img.youtube.com/vi/ckk_cBtq30U/0.jpg" align="center" height="300px"/><br>
+    Перейти к видео<br>
+  </a>
+</details>
+
+<details>
+  <summary><b>Angular, Express, WebSocket и как сделать так, чтобы это всё работало</b> - Мария Кононенко</summary>
+  <a href="https://youtu.be/41yE3Gczgso">
+    <br><img src="https://img.youtube.com/vi/41yE3Gczgso/0.jpg" align="center" height="300px"/><br>
+    Перейти к видео<br>
+  </a>
+</details>
+
+<details>
   <summary><b>Стратегия обнаружения изменений в Angular</b> - Максим Иванов</summary>
   <a href="https://youtu.be/2cV4i-g6Oxc">
     <br><img src="https://img.youtube.com/vi/2cV4i-g6Oxc/0.jpg" align="center" height="300px"/><br>
