@@ -24,7 +24,33 @@ PS: Если это ваш доклад - добавляйте в заголов
 
 Angular — один из немногих фреймворков без обёрток и костылей. В нём учтены ошибки AngularJS, React, Ember. Мы расскажем о своём опыте использования Angular, обсудим актуальные проблемы и попробуем разобраться, какие тренды ожидают нас в ближайшем будущем.
 
-[angular 5.x]
+[angular 6.x]
+
+<details>
+  <summary><b>Backend на Kotlin + Angular как frontend </b> – Николай Митропольский и Максим Иванов</summary>
+  <a href="https://www.youtube.com/watch?v=G_foWJwhFE8">
+    <br><img src="https://img.youtube.com/vi/G_foWJwhFE8/0.jpg" align="center" height="300px"/><br>
+    Перейти к видео<br>
+  </a>
+</details>
+
+<details>
+  <summary><b>Погружение в реактивные формы Angular</b> – Никита Жарков</summary>
+  <a href="https://www.youtube.com/watch?v=PZJcHz8CMDM">
+    <br><img src="https://img.youtube.com/vi/PZJcHz8CMDM/0.jpg" align="center" height="300px"/><br>
+    Перейти к видео<br>
+  </a>
+</details>
+
+<details>
+  <summary><b>Экосистема Angular</b> - Алексей Охрименко</summary>
+  <a href="https://www.youtube.com/watch?v=G7ATET3z0RM">
+    <br><img src="https://img.youtube.com/vi/G7ATET3z0RM/0.jpg" align="center" height="300px"/><br>
+    Перейти к видео<br>
+  </a>
+</details>
+
+<br>[angular 5.x]
 
 <details>
   <summary><b>Angular ❤️ SVG</b> - Кирилл Черкашин</summary>
