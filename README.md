@@ -27,6 +27,30 @@ Angular — один из немногих фреймворков без обё�
 [angular 6.x]
 
 <details>
+  <summary><b>Управление состоянием с помощью NGXS</b> – Игорь Кравченко</summary>
+  <a href="https://youtu.be/gWYSlEjKCFU?t=56m27s">
+    <br><img src="https://habrastorage.org/webt/gh/rj/r2/ghrjr2af4hjtrzgnpooeybywmqi.png" align="center" height="300px"/><br>
+    Перейти к видео<br>
+  </a>
+</details>
+
+<details>
+  <summary><b>Динамика в Angular</b> – Андрей Греков</summary>
+  <a href="https://youtu.be/gWYSlEjKCFU?t=32m56s">
+    <br><img src="https://habrastorage.org/webt/5e/ar/kl/5earkl63wuorm4dk7mi_wccah1q.png" align="center" height="300px"/><br>
+    Перейти к видео<br>
+  </a>
+</details>
+
+<details>
+  <summary><b>RxJS: Higher Order Observable</b> – Андрей Алексеев</summary>
+  <a href="https://youtu.be/gWYSlEjKCFU?t=4m10s">
+    <br><img src="https://habrastorage.org/webt/r3/75/11/r37511gr9lkvy2uawjutnbuazf4.png" align="center" height="300px"/><br>
+    Перейти к видео<br>
+  </a>
+</details>
+
+<details>
   <summary><b>Backend на Kotlin + Angular как frontend </b> – Николай Митропольский и Максим Иванов</summary>
   <a href="https://www.youtube.com/watch?v=G_foWJwhFE8">
     <br><img src="https://img.youtube.com/vi/G_foWJwhFE8/0.jpg" align="center" height="300px"/><br>
