@@ -27,6 +27,31 @@ Angular — один из немногих фреймворков без обё�
 [angular 6.x]
 
 <details>
+  <summary><b>NGRX Data</b> – Климент Рудниченко</summary>
+  <a href="https://youtu.be/aTnZyu53zSE?t=5996">
+    <br><img src="https://habrastorage.org/webt/rf/mv/g8/rfmvg8s3poble0dsd9wmkce0exs.png" align="center" height="300px"/><br>
+    Перейти к видео<br>
+  </a>
+</details>
+
+
+<details>
+  <summary><b>Плагинная архитектура</b> – Рустам Имайкин</summary>
+  <a href="https://youtu.be/aTnZyu53zSE?t=4358">
+    <br><img src="https://habrastorage.org/webt/8c/ej/71/8cej71iytbkwfjfbckk_7-7gidw.png" align="center" height="300px"/><br>
+    Перейти к видео<br>
+  </a>
+</details>
+
+<details>
+  <summary><b>Испольщование динамических форм с ngx-formly</b> – Олег Кургускин</summary>
+  <a href="https://youtu.be/aTnZyu53zSE?t=420">
+    <br><img src="https://habrastorage.org/webt/jm/-k/cp/jm-kcpvrrpbp1_altrksqmxkxv8.png" align="center" height="300px"/><br>
+    Перейти к видео<br>
+  </a>
+</details>
+
+<details>
   <summary><b>Управление состоянием с помощью NGXS</b> – Игорь Кравченко</summary>
   <a href="https://youtu.be/gWYSlEjKCFU?t=56m27s">
     <br><img src="https://habrastorage.org/webt/gh/rj/r2/ghrjr2af4hjtrzgnpooeybywmqi.png" align="center" height="300px"/><br>
